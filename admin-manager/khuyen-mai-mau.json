@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "promotions": [
+    {
+      "code": "LE83-HANGNAM",
+      "name": "8/3 · Chuột và màn hình",
+      "scope": "products",
+      "productSkus": ["ACC-LG-G102", "LCD-LG24GN600"],
+      "discountType": "percent",
+      "percent": 8,
+      "min": 500000,
+      "cap": 300000,
+      "from": "2026-03-08",
+      "to": "2026-03-08",
+      "annual": true,
+      "auto": true,
+      "status": "Tạm dừng"
+    },
+    {
+      "code": "LE2010-HANGNAM",
+      "name": "20/10 · Ưu đãi nâng cấp PC",
+      "scope": "products",
+      "productSkus": ["RAM-KF16-3200", "SSD-980P-1T"],
+      "discountType": "percent",
+      "percent": 10,
+      "min": 1000000,
+      "cap": 500000,
+      "from": "2026-10-20",
+      "to": "2026-10-20",
+      "annual": true,
+      "auto": true,
+      "status": "Tạm dừng"
+    },
+    {
+      "code": "BF2026-MAU",
+      "name": "Black Friday 2026 · Linh kiện PC",
+      "scope": "program",
+      "discountType": "percent",
+      "percent": 7,
+      "min": 2000000,
+      "cap": 700000,
+      "from": "2026-11-27",
+      "to": "2026-11-29",
+      "annual": false,
+      "auto": true,
+      "status": "Tạm dừng"
+    },
+    {
+      "code": "BTS2027-MAU",
+      "name": "Back to School 2027 · RAM và SSD",
+      "scope": "products",
+      "productSkus": ["RAM-KF16-3200", "SSD-980P-1T"],
+      "discountType": "fixed",
+      "amount": 150000,
+      "min": 1500000,
+      "cap": 150000,
+      "from": "2027-08-01",
+      "to": "2027-09-15",
+      "annual": false,
+      "auto": true,
+      "status": "Tạm dừng"
+    }
+  ]
+}
